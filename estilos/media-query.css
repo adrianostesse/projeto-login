@@ -51,4 +51,16 @@
     div#formulario > p {
         font-size: 1.2em;
     }
+
+    form > input[type=submit] {
+        display: inline-block;
+        width: 45%;
+        margin-left: 15px;
+    }
+
+    form > a.botao {
+        display: inline-block;
+        width: 45%;
+        margin-left: 10px;
+    }
 }
